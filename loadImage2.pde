@@ -2,7 +2,7 @@ PImage bread2;
 PImage ok;
 void setup() {
   size(600, 400);
-  bread2= loadImage("bread2.gif");
+  bread2= loadImage("tenor.gif");
   ok= loadImage("ok.png");
 }
 void draw() {
